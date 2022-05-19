@@ -27,3 +27,17 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.navbar {
+  background-color: blue;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  border: 3px solid black;
+  border-top: none;
+  padding: 5px;
+  position: sticky;
+  top: 0px;
+  border-radius: 0px 0px 7px 7px;
+  margin-top:0px;
+}
